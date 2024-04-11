@@ -1,9 +1,9 @@
-idade = float(input("Digite a sua Idade "))
+idade = float(input("Digite a sua Idade: "))
 if idade <13:
-    print("Criança")
+    print("Esta idade é de uma criança")
 elif idade <17:
-    print("Adolecente")
+    print("Esta idade é de um adolecente")
 elif idade <59:
-    print ("Adulto")
+    print ("Esta idade é de uma pessoa adulta")
 else: 
-    print("Velho")
+    print("Esta idade é de uma pessoa mais velha")
