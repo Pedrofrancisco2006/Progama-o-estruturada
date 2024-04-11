@@ -1,5 +1,5 @@
-peso = float(input("digite seu Peso "))
-altura = float(input("digite sua Altura "))
+peso = float(input("Digite seu Peso: "))
+altura = float(input("Digite sua Altura: "))
 imc = peso/(altura*altura)
 if imc < 18.5:
    print("Magreza")
@@ -12,5 +12,5 @@ elif imc <= 34.9:
 elif imc <= 39.9:
    print("Obesidade Grau II")
 else:
-   print("Começe a rezar pra sobreviver")   
+   print("Obesidade Grau III")   
 
