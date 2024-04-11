@@ -1,7 +1,6 @@
     #Número da idade 
 idade = float(input("Digite a sua Idade: "))
    
-
     #Possíveis resultados dependendo da idade
 if idade <13:
     print("Esta idade é de uma criança")
