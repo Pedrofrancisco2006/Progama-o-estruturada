@@ -1,3 +1,4 @@
+      #Calculadora de juros simples
 capital= float(input("Qual o seu capital inicial?: "))
 tempo= float(input("Qual será o tempo tde aplicação: "))
 taxa= float(input("Digite o valor taxa:"))
