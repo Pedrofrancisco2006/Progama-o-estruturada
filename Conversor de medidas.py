@@ -1,5 +1,8 @@
+        #Medidas para se converter e seu valor 
 valor = float(input("Digite um valor para converter: "))
 medidas = str(input('escolha uma das medida:'  ' milhas '  ' polegadas '  ' pes '  ' metros '  ' quilometros '  ' centimetros : '))
+
+          #Possibilidades de converção das medidas
 if medidas==('milhas'):
     print("O valor de milhas para polegadas é",valor*63360, "para pes é", valor*5280, 'para metros é' ,valor*1609, 'em quilometros é',valor*1.609,"e em  centimetros é",valor*160900, '.' )
 elif medidas==('polegadas'):  
