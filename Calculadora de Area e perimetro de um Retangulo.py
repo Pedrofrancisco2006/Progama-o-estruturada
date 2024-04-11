@@ -1,6 +1,6 @@
         #Calcular a área de um retângulo
-base = float(input("Digite a do retângulo base: "))
-altura = float(input("Digite a retângulo altura: "))
+base = float(input("Digite a base do retângulo: "))
+altura = float(input("Digite a altura do retângulo: "))
 area = base*altura 
 
         #Calcular o perímetro do retângulo
