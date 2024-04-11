@@ -1,6 +1,9 @@
-peso = float(input("Digite seu Peso: "))
-altura = float(input("Digite sua Altura: "))
+     #Calculadora do IMC
+peso = float(input("Digite seu peso: "))
+altura = float(input("Digite sua altura: "))
 imc = peso/(altura*altura)
+
+    #Classificação do IMC
 if imc < 18.5:
    print("Magreza")
 elif imc <= 24.9:
