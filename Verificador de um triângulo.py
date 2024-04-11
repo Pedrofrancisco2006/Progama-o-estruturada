@@ -1,4 +1,4 @@
-#Lados de um triângulo
+       #Lados de um triângulo
 a = float(input("Digite o tamanho do primeiro lado: "))
 b = float(input("Digite o tamanho do segundo lado: "))
 c = float(input("Digite o tamanho do terceiro lado: "))
