@@ -1,4 +1,4 @@
-numero = float(input('Digite um numero '))
+numero = float(input('Digite um numero: '))
 if numero  > 0  and numero % 2 == 0 :
     print("Positivo e Par")
 elif numero > 0 and numero % 3 == 0 :   
