@@ -1,4 +1,4 @@
-    #Verificador de idade 
+    #Número da idade 
 idade = float(input("Digite a sua Idade: "))
    
 
