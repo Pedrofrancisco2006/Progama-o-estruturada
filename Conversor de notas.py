@@ -1,7 +1,7 @@
 print("Bom dia, hora de verificar suas notas")
        #Valor da nota
 nota = float(input("Digite a sua nota: "))
-     #Possíveis resultados das notas
+     #Classificação das notas
 if nota >=9:
     print("Você é um exelente aluno,nota A")
 elif nota >=7.5:
