@@ -7,6 +7,6 @@ if idade <13:
 elif idade <17:
     print("Esta idade é de um adolecente")
 elif idade <59:
-    print ("Esta idade é de uma pessoa adulta")
+    print ("Esta idade é de um adulto")
 else: 
-    print("Esta idade é de uma pessoa idosa")
+    print("Esta idade é de um idoso")
