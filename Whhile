@@ -1,7 +1,7 @@
-n = 0
+n = 1
 soma = 0 
 while n <= 10:
-    int(input('Digite um numero: '))
-    soma = soma + n
-    n = n+ 1
-    print("A soma dos", n, "primeiros inteiros positivos é", soma)
+    num = int(input('Digite um numero: '))
+    soma = soma + num
+    n = n + 1
+print("A soma dos 10 primeiros inteiros positivos é", soma)
