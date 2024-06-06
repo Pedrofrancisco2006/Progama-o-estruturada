@@ -1,5 +1,7 @@
+#Definir as variaveis
 soma = 0
 num = int(input("Digite um número (digite 0 para parar): "))
+# Quando 0 numero for diferente de 0 ele vai continuar somando.
 
 while num != 0:
     num = int(input("Digite um número (digite 0 para parar): "))
